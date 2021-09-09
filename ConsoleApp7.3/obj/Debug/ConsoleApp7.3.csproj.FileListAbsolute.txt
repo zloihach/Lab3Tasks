@@ -1,0 +1,6 @@
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\bin\Debug\ConsoleApp7._3.exe
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\bin\Debug\ConsoleApp7._3.pdb
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\obj\Debug\ConsoleApp7.3.csproj.AssemblyReference.cache
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\obj\Debug\ConsoleApp7.3.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\obj\Debug\ConsoleApp7._3.exe
+C:\Users\COMPUTORPUTINA\RiderProjects\ConsoleApp1\ConsoleApp7.3\obj\Debug\ConsoleApp7._3.pdb
