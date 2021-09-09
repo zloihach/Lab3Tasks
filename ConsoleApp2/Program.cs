@@ -1,23 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-using System;
-
-namespace ConsoleApp1
+namespace ConsoleApp2
 {
-    class Programm
+    class Program
     {
-        static void Main(String[] args)
+        static void Main()
         {
-            double a = 0, b = 4 * Math.PI, n = Math.PI / 6, f, x;
-            for (x = a;
-                x <= b + n;
-                x += n)
+            int priceKG = 9000;
+            for (int i = 50; i <= 1000; i += 50)
             {
-                f = x + 1 + Math.Sin(x - 1);
-                Console.WriteLine("x = " + x + " f= " + f);
+                Console.WriteLine(i + " г. = " + (i / 1000.0 * priceKG) + "рублей");
             }
-
-            Console.ReadKey();
         }
     }
 }
